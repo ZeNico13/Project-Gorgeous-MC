@@ -1,0 +1,7 @@
+{
+  "inventory": {
+    "0:0": "minecraft:stone_sword,1,0,{Quality:{}}",
+    "0:1": "minecraft:stone_axe,1,0,{Quality:{}}",
+    "0:2": "xlfoodmod:baguette,32"
+  }
+}

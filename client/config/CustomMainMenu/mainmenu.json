@@ -1,0 +1,143 @@
+{
+	"images": {
+		"background": {
+			"image": "assets:mainmenu/Background_Logo.png",
+			"posX": -270,
+			"posY": -180,
+			"width": 210,
+			"height": 360,
+			"alignment": "center"
+		}
+	},
+
+	"buttons": {
+		"singleplayer": {
+			"text" : "menu.singleplayer",
+			"posX" : -240,
+			"posY" : -16,
+			"width" : 150,
+			"height" : 20,
+			"action" : {
+				"type" : "openGui",
+				"gui" : "singleplayer"
+			},
+			"alignment": "center"
+		},
+		"multiplayer": {
+			"text" : "menu.multiplayer",
+			"posX" : -240,
+			"posY" : 8,
+			"width" : 150,
+			"height" : 20,
+			"action" : {
+				"type" : "openGui",
+				"gui" : "multiplayer"
+			},
+			"alignment": "center"
+		},
+		"mods": {
+			"text" : "#modsloaded# Mods",
+			"posX" : -240,
+			"posY" : 32,
+			"width" : 150,
+			"height" : 20,
+			"action" : {
+				"type" : "openGui",
+				"gui" : "mods"
+			},
+			"alignment": "center"
+		},
+		"language": {
+			"text" : "",
+			"posX" : -240,
+			"posY" : 62,
+			"width" : 20,
+			"height" : 20,
+			"action" : {
+				"type" : "openGui",
+				"gui" : "languages"
+			},
+			"alignment": "center"
+		},
+		"options": {
+			"text" : "menu.options",
+			"posX" : -214,
+			"posY" : 62,
+			"width" : 125,
+			"height" : 20,
+			"action" : {
+				"type" : "openGui",
+				"gui" : "options"
+			},
+			"alignment": "center"
+		},
+		"quit": {
+			"text" : "menu.quit",
+			"hoverText" : "So long!",
+			"posX" : -240,
+			"posY" : 92,
+			"width" : 150,
+			"height" : 20,
+			"action" : {
+				"type" : "quit"
+			},
+			"alignment": "center"
+		}
+	},
+
+	"labels": {
+		"credits": {
+			"text" : "By ZeNico13 & TheDarkFla999",
+			"hoverText" : "Ding! Avant 2037(tm)",
+			"posX" : -239,
+			"posY" : 125,
+			"color" : -1,
+			"alignment" : "center",
+			"hoverSound" : "minecraft:entity.experience_orb.pickup"
+		},
+		"version": {
+			"text" : "Version 0.11",
+			"posX" : -69,
+			"posY" : 4,
+			"color" : -1,
+			"alignment" : "top_right"
+		},
+		"mods": {
+			"text" : "#modsloaded# mods loaded",
+			"posX" : -88,
+			"posY" : 15,
+			"color" : -1,
+			"alignment" : "top_right"
+		},
+		"forge": {
+			"text" : "Powered by Forge",
+			"hoverText" : "Clong!",
+			"posX" : -110,
+			"posY" : -23,
+			"color" : -1,
+			"alignment" : "bottom_right",
+			"hoverSound" : "minecraft:block.anvil.place"
+		},
+		"mojang": {
+			"text" : "Copyright Mojang AB.",
+			"posX" : -110,
+			"posY" : -12,
+			"color" : -1,
+			"action" : {
+				"type" : "openGui",
+				"gui" : "credits"
+			},
+			"alignment" : "bottom_right"
+		}
+	},
+	
+	"other": {
+		"panorama": {
+			"images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+			"animate" : true,
+			"animationSpeed" : 1,
+			"blur" : true,
+			"gradient" : true
+		}
+	}
+}
