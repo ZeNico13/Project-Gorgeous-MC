@@ -96,7 +96,7 @@
 			"hoverSound" : "minecraft:entity.experience_orb.pickup"
 		},
 		"version": {
-			"text" : "Version 0.11",
+			"text" : "Version 1.0.0",
 			"posX" : -69,
 			"posY" : 4,
 			"color" : -1,
