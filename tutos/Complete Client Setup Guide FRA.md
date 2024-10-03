@@ -18,7 +18,7 @@ Project Gorgeous est un très gros modpack d'environ 650 mods, et nécessite don
 
 > ℹ️ **Note :** Pour le moment, le modpack n'a pas été testé sur Linux et MacOS. Il est recommandé de jouer sur Windows.
 
-> ℹ️ **Note :** Il est recommandé de lancer une première fois le modpack pour qu'il génère les fichiers nécessaires, puis de le fermer et de le relancer avant de commencer à jouer.
+> ℹ️ **Note :** Il est recommandé de lancer une première fois le modpack pour qu'il génère les fichiers nécessaires, de modifier les paramètres à votre convenance, puis de le fermer et de le relancer avant de commencer à jouer.
 
 ## Procédure d'installation et de configuration de l'environnement du modpack
 
@@ -145,10 +145,39 @@ Project Gorgeous est un très gros modpack d'environ 650 mods, et nécessite don
 
 8. Félicitations, vous avez installé OptiFine sur le modpack !
 
+### III - Mise en place de Simple Voice Chat (chat vocal de proximité)
+
+> ℹ️ **Note :** Simple Voice Chat est un mod déjà inclus avec le modpack qui permet d'ajouter un chat vocal de proximité dans Minecraft. Voici comment le configurer.
+
+1. Lancez le modpack, puis allez dans les options de jeu, dans les paramètres des contrôles.
+
+2. Tapez "Chat" dans la barre de recherche pour trouver les raccourcis clavier de Simple Voice Chat. Le paramètre qui nous intéresse est "Voice Chat GUI". Assigne-lui une touche que vous n'utilisez pas.
+![Image de la configuration des touches de Simple Voice Chat](images/Tuto_Config_VoiceChat_Project_Gorgeous_1.png)
+
+3. Connectez-vous à un serveur ou à un monde solo.
+
+4. Appuyez sur la touche que vous avez assignée pour ouvrir le menu GUI de Simple Voice Chat. Cliquez sur le bouton "Next".
+![Image de l'ouverture du menu GUI de Simple Voice Chat](images/Tuto_Config_VoiceChat_Project_Gorgeous_2.png)
+
+5. Sélectionnez votre microphone dans la liste, puis cliquez sur le bouton "Next".
+![Image de la sélection du microphone dans Simple Voice Chat](images/Tuto_Config_VoiceChat_Project_Gorgeous_3.png)
+
+6. Sélectionnez votre casque ou vos haut-parleurs dans la liste, puis cliquez sur le bouton "Next".
+![Image de la sélection des haut-parleurs dans Simple Voice Chat](images/Tuto_Config_VoiceChat_Project_Gorgeous_4.png)
+
+7. Sélectionnez l'un des 2 modes de détection de voix. Configurez la sensibilité du micro et l'amplification si besoin. Cliquez ensuite sur le bouton "Next".
+![Image de la configuration de la détection de voix dans Simple Voice Chat](images/Tuto_Config_VoiceChat_Project_Gorgeous_5.png)
+
+8. Terminez la configuration en cliquant sur le bouton "Finish setup".
+![Image de la fin de la configuration de Simple Voice Chat](images/Tuto_Config_VoiceChat_Project_Gorgeous_6.png)
+
+9. Une fois ces étapes terminées, appuyez de nouveau sur la touche que vous avez assignée pour ouvrir le menu GUI de Simple Voice Chat. Dé-mutez votre micro en cliquant sur le bouton "Mute".
+![Image de la configuration du mute dans Simple Voice Chat](images/Tuto_Config_VoiceChat_Project_Gorgeous_7.png)
+
+10. Félicitations, vous avez terminé de configurer Simple Voice Chat !
+
 ## Lancement de Project Gorgeous
 
-Une fois toutes ces étapes réalisées, vous êtes fin prêt à lancer Project Gorgeous !
-
-Pour cela, retournez dans la liste de vos modpacks Minecraft sur CurseForge, et cliquez sur le bouton "Play" du modpack Project Gorgeous.
+Une fois toutes ces étapes réalisées, vous êtes fin prêt à jouer à Project Gorgeous !
 
 Je n'ai plus qu'à vous souhaiter une excellente aventure sur Project Gorgeous ! Amusez-vous bien ! 🌟
