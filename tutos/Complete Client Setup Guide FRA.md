@@ -36,6 +36,8 @@ Project Gorgeous est un très gros modpack d'environ 650 mods, et nécessite don
    - Operating System : Windows
    - Architecture : x64
 
+> ⚠️ **ATTENTION :** N'oubliez pas de sélectionner l'architecture x64 dans la liste déroulante des filtres ! Elle n'est pas sélectionnée par défaut !
+
 3. Prenez la version étiquetée "Latest" et téléchargez le fichier `.msi` de la ligne JRE.
 ![Image de la page de téléchargement de Java 8 OpenJ9](images/Tuto_Install_Java_Project_Gorgeous_1.png)
 
@@ -120,6 +122,8 @@ Project Gorgeous est un très gros modpack d'environ 650 mods, et nécessite don
 2. Dans la barre de recherche "Search for Minecraft projects..." de CurseForge, recherchez "Project Gorgeous" et cliquez sur le modpack correspondant.
 
 3. Cliquez sur le bouton "Install" pour télécharger et installer le modpack.
+
+![Image de la recherche du modpack dans CurseForge](images/Tuto_Install_Modpack_Project_Gorgeous_1.png)
 
 ### II - Installation d'OptiFine
 
