@@ -36,9 +36,11 @@ Project Gorgeous est un très gros modpack d'environ 650 mods, et nécessite don
    - Operating System : Windows
    - Architecture : x64
 
-> ⚠️ **ATTENTION :** N'oubliez pas de sélectionner l'architecture x64 dans la liste déroulante des filtres ! Elle n'est pas sélectionnée par défaut !
+> ⚠️ **ATTENTION :** N'oubliez pas de sélectionner l'architecture "x64" dans la liste déroulante des filtres ! **Elle n'est PAS sélectionnée par défaut !**
 
-3. Prenez la version étiquetée "Latest" et téléchargez le fichier `.msi` de la ligne JRE.
+> ⚠️ **ATTENTION :** Vérifiez bien TOUS les filtres pour ne pas télécharger une mauvaise version !
+
+3. Prenez la version étiquetée "Latest" et téléchargez le fichier `.msi` de la ligne **JRE**.
 ![Image de la page de téléchargement de Java 8 OpenJ9](images/Tuto_Install_Java_Project_Gorgeous_1.png)
 
 4. Exécutez le fichier d'installation `.msi` téléchargé.
@@ -46,6 +48,8 @@ Project Gorgeous est un très gros modpack d'environ 650 mods, et nécessite don
 
 5. Suivez les instructions de l'installateur pour installer Java 8 OpenJ9. Notez le chemin d'installation par défaut.
 ![Image de l'installation de Java 8 OpenJ9](images/Tuto_Install_Java_Project_Gorgeous_3.png)
+
+> ⚠️ **ATTENTION :** Si le chemin d'installation est "Program Files **(x86)**", c'est que vous n'avez pas téléchargé la version 64 bits de Java ! Annulez l'installation et revenez à l'étape 1 de cette section en faisant bien attention de sélectionner le filtre "x64" pour l'architecture (qui n'est PAS sélectionné par défaut).
 
 6. Félicitations, vous avez installé Java 8 OpenJ9. Nous pouvons maintenant passer à l'installation de CurseForge.
 
