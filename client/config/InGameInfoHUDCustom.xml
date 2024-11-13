@@ -14,7 +14,7 @@
 				<str>$eDay</str>
 				<str>$7Night</str>
 			</if>
-			<str> time$f)</str>
+			<str>$f)</str>
 		</line>
 		<line>
 			<str>Dim: $e{dimension}$f ({dimensionid})</str>
