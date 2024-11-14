@@ -16,9 +16,11 @@ Project Gorgeous is a very large modpack with around 650 mods, requiring a power
 
 > ⚠️ **WARNING:** The modpack takes between **15 and 30 minutes to start**, depending on the power of your hardware configuration. **Avoid any interaction with the game window** during this time to avoid any problems. If your window is in "Not responding" mode, **don't touch anything and wait a bit**. It should return to normal shortly after.
 
-> ℹ️ **Note:** For now, the modpack has not been tested on Linux and MacOS. It is recommended to play on Windows.
+> ℹ️ **Note:** The longest game loading stage is **step 6/7** "Finishing up" with Had Enough Items and JEI Hider. Don't be surprised because it can take between **5 and 10 minutes to complete**!
 
 > ℹ️ **Note :** It is recommended to launch the modpack once so that it generates the necessary files, change the settings to your liking, then close it and restart it before starting to play.
+
+> ℹ️ **Note:** For now, the modpack has not been tested on Linux and MacOS. It is recommended to play on Windows.
 
 ## Modpack Environment Installation and Configuration Procedure
 
