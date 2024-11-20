@@ -96,11 +96,18 @@
 			"hoverSound" : "minecraft:entity.experience_orb.pickup"
 		},
 		"version": {
-			"text" : "Version 1.0.2",
+			"text" : "Version 1.0.3",
+			"hoverText" : "  Changelogs",
 			"posX" : -69,
 			"posY" : 4,
 			"color" : -1,
-			"alignment" : "top_right"
+			"alignment" : "top_right",
+			"hoverSound" : "minecraft:entity.chicken.egg",
+			"action" : 
+			{
+				"type" : "openLink",
+				"link" : "https://github.com/ZeNico13/Project-Gorgeous-MC/tree/main/changelogs"
+			}
 		},
 		"mods": {
 			"text" : "#modsloaded# mods loaded",
